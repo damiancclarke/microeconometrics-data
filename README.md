@@ -1,2 +1,2 @@
-# Microeconometrics data
-Datasets used in the Microeconometrics book. Download files from the Releases page.
+# Applied Microeconometrics datasets
+Datasets for Applied Microeconometrics (MIT Press, 2026). Download from the Releases page.
